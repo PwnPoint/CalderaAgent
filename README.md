@@ -41,5 +41,6 @@ This agent is ideal for:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-   cd YOUR_REPO
+   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO.git](https://github.com/PwnPoint/CalderaAgent.git)
+   cd CalderaAgent
+   etc
